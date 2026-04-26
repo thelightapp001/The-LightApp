@@ -1,5 +1,5 @@
 const steps = [
-  { n: "01", title: "Download", desc: "Get The Light App on Google Play and create your space in seconds." },
+  { n: "01", title: "Download", desc: "Get The Lightapp on Google Play and create your space in seconds." },
   { n: "02", title: "Gather", desc: "Bring your Bible, sermons, worship, podcasts and devotionals into one home." },
   { n: "03", title: "Grow", desc: "Walk consistently with God — guided, supported and surrounded by community." },
 ];

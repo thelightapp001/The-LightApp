@@ -5,7 +5,7 @@ const pillars = [
     icon: Flame,
     label: "Our Mission",
     title: "To declutter the digital spiritual life.",
-    body: "Currently, a believer must jump between five different apps for Bible study, music, podcasts, and community. The Light App unifies these experiences into a seamless, high-performance environment that honors God through excellence and simplicity.",
+    body: "Currently, a believer must jump between five different apps for Bible study, music, podcasts, and community. The Lightapp unifies these experiences into a seamless, high-performance environment that honors God through excellence and simplicity.",
   },
   {
     icon: Eye,
@@ -63,7 +63,7 @@ export const MissionVision = () => (
       </div>
 
       <p className="reveal mt-16 text-center font-display text-lg md:text-xl text-foreground/80 italic">
-        "We are The Light App."
+        "We are The Lightapp."
       </p>
     </div>
   </section>

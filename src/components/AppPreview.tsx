@@ -21,7 +21,7 @@ export const AppPreview = () => (
         <div className="rounded-3xl border hairline bg-[hsl(var(--surface))] p-6 md:p-12 shadow-card">
           <img
             src={appPreview}
-            alt="The Light App screens preview"
+            alt="The Lightapp screens preview"
             width={1600}
             height={1024}
             loading="lazy"

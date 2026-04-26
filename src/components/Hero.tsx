@@ -44,7 +44,7 @@ export const Hero = () => {
           </h1>
 
           <p className="reveal mt-6 text-base md:text-lg text-muted-foreground text-balance max-w-xl mx-auto">
-            The Light App brings your Bible, sermons, worship, podcasts, devotionals, ebooks, AI guide and community into one place — built for believers, built for this generation.
+            The Lightapp brings your Bible, sermons, worship, podcasts, devotionals, ebooks, AI guide and community into one place — built for believers, built for this generation.
           </p>
 
           <div className="reveal mt-10 flex flex-col sm:flex-row items-center justify-center gap-3">
@@ -80,7 +80,7 @@ export const Hero = () => {
           <div className="float">
             <img
               src={heroPhone}
-              alt="The Light App interface on a modern smartphone"
+              alt="The Lightapp interface on a modern smartphone"
               width={1024}
               height={1280}
               className="mx-auto w-full max-w-[520px] drop-shadow-[0_40px_80px_rgba(0,0,0,0.6)]"

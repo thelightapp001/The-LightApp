@@ -9,7 +9,7 @@ export const FinalCTA = () => (
     <div className="container-light relative text-center">
       <p className="reveal text-xs uppercase tracking-[0.2em] text-accent">A digital city upon a hill</p>
       <h2 className="reveal mt-4 font-display text-4xl md:text-6xl font-bold tracking-tight text-balance max-w-3xl mx-auto leading-[1.05]">
-        Let <span className="text-shimmer">The Light</span> shine<br />in your everyday.
+        Let <span className="text-shimmer">The Lightapp</span> shine<br />in your everyday.
       </h2>
       <p className="reveal mt-6 text-muted-foreground text-balance max-w-xl mx-auto">
         Bring your Bible, sermons, worship, podcasts and community home. Built for believers. Built for this generation.

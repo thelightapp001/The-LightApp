@@ -10,7 +10,7 @@ const nav = [
   { title: "Company", links: [
     { label: "About", href: "#" },
     { label: "Press", href: "#" },
-    { label: "Contact", href: "mailto:hello@thelightapp.com" },
+    { label: "Contact", href: "support@mylightapp.com" },
   ]},
   { title: "Legal", links: [
     { label: "Privacy Policy", href: "#" },
@@ -35,10 +35,10 @@ export const Footer = () => (
             A Christian media platform unifying Bible, sermons, worship, podcasts, AI guide and community — in one beautifully crafted home.
           </p>
           <a
-            href="mailto:hello@thelightapp.com"
+            href="mailto:support@mylightapp.com"
             className="mt-4 inline-block text-sm text-foreground hover:text-accent transition-colors"
           >
-            hello@thelightapp.com
+            support@mylightapp.com
           </a>
         </div>
 
@@ -89,7 +89,7 @@ export const Footer = () => (
       </div>
 
       <div className="mt-14 pt-8 border-t hairline flex flex-col sm:flex-row items-center justify-between gap-4">
-        <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} The Light App. All rights reserved.</p>
+        <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} The Lightapp. All rights reserved.</p>
         <p className="text-xs text-muted-foreground">Built for believers. Built for this generation.</p>
       </div>
     </div>

@@ -27,7 +27,7 @@ export const Differentiation = () => (
       <div className="mt-14 grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="reveal shimmer-border rounded-2xl border border-accent/30 bg-background p-8 md:p-10 shadow-glow lift">
           <div className="flex items-center gap-2 text-accent text-xs uppercase tracking-[0.2em]">
-            <span className="h-1.5 w-1.5 rounded-full bg-accent animate-glow-pulse" /> The Light App
+            <span className="h-1.5 w-1.5 rounded-full bg-accent animate-glow-pulse" /> The Lightapp
           </div>
           <ul className="mt-6 space-y-4">
             {compare.map((c, i) => (
