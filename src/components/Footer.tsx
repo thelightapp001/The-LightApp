@@ -13,7 +13,7 @@ const nav = [
     { label: "Contact", href: "support@mylightapp.com" },
   ]},
   { title: "Legal", links: [
-    { label: "Privacy Policy", href: "#" },
+    { label: "Privacy Policy", href: "/privacy" },
     { label: "Terms", href: "#" },
     { label: "Cookies", href: "#" },
   ]},
